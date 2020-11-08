@@ -9,6 +9,7 @@ table {
 .module_content img{
   min-width: 70px;
   max-width: 150px;
+  border: 1px solid black;
 }
 
 .module_content h2{
